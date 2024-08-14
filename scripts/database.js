@@ -16,7 +16,7 @@ const database = {
       id: 3,
       name: 'Anna Bowton',
       email: 'abowton2@wisc.edu',
-      spōrt: 'Golf',
+      sport: 'Golf',
     },
     {
       id: 4,
@@ -84,7 +84,7 @@ const database = {
       id: 4,
       name: 'Karine McKennan',
       celebrityId: 6,
-      wissh: 'Drive a race car',
+      wish: 'Drive a race car',
     },
     {
       id: 5,
@@ -108,7 +108,7 @@ const database = {
       id: 8,
       name: 'Elisha Betchley',
       celebrityId: 2,
-      wissh: 'Ride on a helicopter',
+      wish: 'Ride on a helicopter',
     },
     {
       id: 9,
